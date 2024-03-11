@@ -28,30 +28,32 @@ def get_data(train_file_path, translation_file_path):
     data = create_data(train_lines, translation_lines)
     return data
 
-def output_score(dataset, data):
-    output_file="COMET_result/"+dataset
-    with open(output_file, 'a+',encoding="utf-8") as f:
+def output_score(output_path, data):
+    with open(output_path, 'a+',encoding="utf-8") as f:
         for score in data:
             f.write(str(score)+'\n')
 
-def get_tigerscore(data, dataset):
+def get_tigerscore(data, output_path):
     model_path = download_model("Unbabel/wmt22-cometkiwi-da")
     model = load_from_checkpoint(model_path)
     model_output = model.predict(data, batch_size=8)
-    output_score(dataset, model_output.scores)
+    output_score(output_path, model_output.scores)
     print(model_output.system_score)
 
 def main(args):
-    train_file_path=os.path.join("origin", args.dataset+".txt")
-    translation_file_path=os.path.join("en-zh", args.dataset+".txt")
+    train_file_path=args.src
+    translation_file_path=args.hyp
     data=get_data(train_file_path, translation_file_path)
     # print(data)
-    get_tigerscore(data, args.dataset)
+    output_path=f"E:\\multilingual-overpassql\\COMET_result\\{args.output}\\result"
+    get_tigerscore(data, output_path)
 
 if __name__=="__main__":
     parser = argparse.ArgumentParser(description="Translate English sentences to Chinese using OpenAI's GPT-4 API.")
-    parser.add_argument("-dataset", type=str, help="Path to the dataset file containing English sentences to translate.", required=True)
-    args = parser.parse_args()    
+    parser.add_argument("-src", type=str, help="Path to the dataset file containing English sentences to translate.", required=True)
+    parser.add_argument("-hyp", type=str, help="Path to the dataset file containing English sentences to translate.", required=True)
+    parser.add_argument("-output", type=str, help="Path to the dataset file containing English sentences to translate.", required=True)
+    args = parser.parse_args()
 
     # Call the main function with the parsed arguments
     main(args)
