@@ -1,0 +1,1202 @@
+[
+    {
+        "id": 0,
+        "src": "florist Forlì-Cesena",
+        "hyp": "Forlì-Cesena花店",
+        "cor": "Forlì-Cesena花店",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"accuracy/mistranslation - missing the word 'florist'\",\n\t\"minor\": \"accuracy/mistranslation - '花店' is a general term for flower shop, not specifically 'florist'\"\n}\n```"
+    },
+    {
+        "id": 1,
+        "src": "Places in Zarautz with information about amenity, craft, history, leisure, public transport, shops, sports or tourism",
+        "hyp": "Zarautz中有关设施、手工艺、历史、休闲、公共交通、商店、体育或旅游信息的地方",
+        "cor": "Zarautz有关设施、手工艺、历史、休闲、公共交通、商店、体育或旅游信息的地方",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"accuracy/mistranslation - 'Zarautz中'\",\n\t\"minor\": \"no-error\"\n}\n```"
+    },
+    {
+        "id": 2,
+        "src": "Ways and nodes with the uid 10074543 newer than yesterday",
+        "hyp": "比昨天更新的、uid是10074543的道路和节点",
+        "cor": "比昨天更新的，uid是10074543的道路和节点",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"accuracy/mistranslation - '道路和节点'\",\n\t\"major\": \"accuracy/addition - '比昨天更新的'\",\n\t\"minor\": \"no-error\"\n}\n```"
+    },
+    {
+        "id": 3,
+        "src": "highway trunk with motorway linkings in Seattle, Washington State",
+        "hyp": "华盛顿州西雅图市的高速公路干线与高速公路连接处",
+        "cor": "华盛顿州西雅图市的高速公路干线与高速公路连接处",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"accuracy/mistranslation - 'highway trunk'\",\n\t\"minor\": \"accuracy/addition - 'in Seattle'\"\n}\n```"
+    },
+    {
+        "id": 4,
+        "src": "Show me toilets that are accessible. in current view",
+        "hyp": "当前视图中显示可进入的厕所",
+        "cor": "在当前视图中显示可进入的厕所",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"accuracy/mistranslation - '可进入的厕所'\",\n\t\"minor\": \"accuracy/addition - '当前视图中显示'\"\n}\n```"
+    },
+    {
+        "id": 5,
+        "src": "Swimming Pools that have leisure attribute, a name and a building in France",
+        "hyp": "在法国有休闲属性、名称和建筑的游泳池",
+        "cor": "在法国的游泳池具有休闲属性、名称和建筑",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"accuracy/omission - 'that have', accuracy/mistranslation - '属性' ('attribute' instead of 'leisure'), accuracy/mistranslation - '游泳池' ('swimming pool' instead of 'swimming pools')\",\n\t\"minor\": \"style/awkward - '在法国有' ('in France have')\"\n}\n```"
+    },
+    {
+        "id": 6,
+        "src": "highways 1000 meters around coordinates 56.8166426,60.6299284 that were not edited last by user MassGIS Import and all nodes 1000 meters around those coordinates",
+        "hyp": "坐标56.8166426,60.6299284周围1000米内未由用户MassGIS Import最后编辑的高速公路以及这些坐标周围1000米内的所有节点",
+        "cor": "坐标56.8166426,60.6299284周围1000米内未由用户MassGIS Import最后编辑的高速公路以及这些坐标周围1000米内的所有节点",
+        "need correction": 0,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"no-error\",\n\t\"minor\": \"no-error\"\n}\n```"
+    },
+    {
+        "id": 7,
+        "src": "Areas with visible bedrock in current view",
+        "hyp": "当前视图中可见的裸露岩石区域",
+        "cor": "当前视图中可见的裸露岩石区域",
+        "need correction": 0,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"no-error\",\n\t\"minor\": \"no-error\"\n}\n```"
+    },
+    {
+        "id": 8,
+        "src": "Way with the attribute lanes:backward having a value 0 in 'Catalonia'",
+        "hyp": "在'加泰罗尼亚'的道路上，具有属性lanes:backward且值为0",
+        "cor": "在'加泰罗尼亚'，具有属性lanes:backward且值为0的方式",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"accuracy/mistranslation - '在'加泰罗尼亚'的道路上'\",\n\t\"minor\": \"accuracy/mistranslation - '属性lanes:backward且值为0'\"\n}\n```"
+    },
+    {
+        "id": 9,
+        "src": "Places in the current view whose name starts with 'Noise level'",
+        "hyp": "当前视图中名称以'噪声水平'开头的地点",
+        "cor": "当前视图中以'噪音水平'开头的地点",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"accuracy/mistranslation - '噪声水平' should be translated as '噪音水平'\",\n\t\"minor\": \"accuracy/omission - 'Places in the current view' is not translated\"\n}\n```"
+    },
+    {
+        "id": 10,
+        "src": "All objects in Slovakia with Wikidata tags and without Wikipedia tags",
+        "hyp": "所有在斯洛伐克有Wikidata标签而没有Wikipedia标签的对象",
+        "cor": "所有在斯洛伐克有Wikidata标签而没有Wikipedia标签的对象",
+        "need correction": 0,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"no-error\",\n\t\"minor\": \"no-error\"\n}\n```"
+    },
+    {
+        "id": 11,
+        "src": "nightclub in current view",
+        "hyp": "当前视图中的夜总会",
+        "cor": "当前视图中的夜店",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"accuracy/mistranslation - 当前视图中的夜总会\",\n\t\"minor\": \"no-error\"\n}\n```"
+    },
+    {
+        "id": 12,
+        "src": "hiking route with a three-digit reference number starting with a 7 including a survey from 2017 in Friuli Venezia Giulia",
+        "hyp": "在Friuli Venezia Giulia的，带有以7开头的三位数参考编号的徒步路线，包括2017年的调查",
+        "cor": "Friuli Venezia Giulia徒步路线，编号以7开头的三位数，包括2017年的调查",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"accuracy/mistranslation - '2017年的调查'\",\n\t\"minor\": \"accuracy/addition - '在Friuli Venezia Giulia的', fluency/grammar - '的'\"\n}\n```"
+    },
+    {
+        "id": 13,
+        "src": "restaurant in current view",
+        "hyp": "当前视图中的餐厅",
+        "cor": "当前视图中的餐厅",
+        "need correction": 0,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"no-error\",\n\t\"minor\": \"no-error\"\n}\n```"
+    },
+    {
+        "id": 14,
+        "src": "Curves or dangerous turns in Brasil",
+        "hyp": "巴西的曲线或危险弯道",
+        "cor": "巴西的曲线或危险弯道",
+        "need correction": 0,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"no-error\",\n\t\"minor\": \"no-error\"\n}\n```"
+    },
+    {
+        "id": 15,
+        "src": "All places in the current view last changed by the user 'HK2002' between 2020-07-23 and 2020-07-24",
+        "hyp": "当前视图中，所有最后由用户'HK2002'在2020-07-23至2020-07-24之间更改的地点",
+        "cor": "当前视图中，所有在2020-07-23至2020-07-24之间最后被用户'HK2002'更改的地点",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"accuracy/mistranslation - '地点'\",\n\t\"minor\": \"accuracy/omission - 'last changed by the user', terminology/inconsistent use - '当前视图中'\"\n}\n```"
+    },
+    {
+        "id": 16,
+        "src": "Nodes of addresses wih house numbers and on street 'Skamlingvejen' with postcode '6000' in Denmark last edited by user 'findvej' in current view",
+        "hyp": "当前视图中，位于丹麦、邮编为'6000'、街道为'Skamlingvejen'、带有门牌号的地址节点，最后由用户'findvej'编辑",
+        "cor": "在丹麦，邮编为'6000'的'Skamlingvejen'街道上，带有门牌号的地址节点，最后由用户'findvej'编辑在当前视图中",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"accuracy/mistranslation - 'address nodes'\",\n\t\"major\": \"accuracy/omission - 'with house numbers', accuracy/mistranslation - 'last edited by user'\",\n\t\"minor\": \"accuracy/mistranslation - 'Nodes of addresses', fluency/grammar - 'in current view'\"\n}\n```"
+    },
+    {
+        "id": 17,
+        "src": "restaurant in current view",
+        "hyp": "当前视图中的餐厅",
+        "cor": "当前视图中的餐厅",
+        "need correction": 0,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"no-error\",\n\t\"minor\": \"no-error\"\n}\n```"
+    },
+    {
+        "id": 18,
+        "src": "Roads for motor vehicles in Caen in current view",
+        "hyp": "当前视图中Caen的机动车道路",
+        "cor": "Caen当前视图中的机动车道路",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"accuracy/mistranslation\",\n\t\"major\": \"accuracy/addition\",\n\t\"minor\": \"no-error\"\n}\n```"
+    },
+    {
+        "id": 19,
+        "src": "Impasses named Bequerel or Henri Becquerel in Saint-Junien",
+        "hyp": "Saint-Junien命名为Bequerel或Henri Becquerel的死胡同",
+        "cor": "在圣朱尼安，被命名为Bequerel或Henri Becquerel的僵局",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"accuracy/mistranslation - '死胡同'\",\n\t\"major\": \"accuracy/addition - '的'\",\n\t\"minor\": \"terminology/inappropriate for context - '命名为'\"\n}\n```"
+    },
+    {
+        "id": 20,
+        "src": "beach resort in current view",
+        "hyp": "当前视图中的海滩度假村",
+        "cor": "当前景观中的海滩度假胜地",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"accuracy/mistranslation - '当前视图中的海滩度假村'\",\n\t\"minor\": \"accuracy/omission - 'beach resort'\"\n}\n```"
+    },
+    {
+        "id": 21,
+        "src": "School buildings that don't have an amenity tag in Udine",
+        "hyp": "乌迪内没有设施标签的学校建筑",
+        "cor": "乌迪内没有设施标签的学校建筑",
+        "need correction": 0,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"no-error\",\n\t\"minor\": \"no-error\"\n}\n```"
+    },
+    {
+        "id": 22,
+        "src": "camp sites in Seignanx",
+        "hyp": "Seignanx露营地",
+        "cor": "Seignanx的露营地",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"accuracy/mistranslation\",\n\t\"major\": \"no-error\",\n\t\"minor\": \"no-error\"\n}\n```"
+    },
+    {
+        "id": 23,
+        "src": "Motocross circuits in current view",
+        "hyp": "当前视图中的越野摩托车赛道",
+        "cor": "当前视图中的摩托越野赛道",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"accuracy/untranslated text\",\n\t\"minor\": \"no-error\"\n}\n```"
+    },
+    {
+        "id": 24,
+        "src": "Pyrotechnics shops in current view",
+        "hyp": "当前视图中的烟火店",
+        "cor": "当前视图中的烟花商店",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"accuracy/addition - '当前视图中的'\",\n\t\"minor\": \"no-error\"\n}\n```"
+    },
+    {
+        "id": 25,
+        "src": "service highways called Transoeste, Transolímpica or Transcarioca in Rio de Janeiro",
+        "hyp": "里约热内卢的高速公路，名为Transoeste、Transolímpica或Transcarioca",
+        "cor": "里约热内卢的高速公路，名为Transoeste、Transolímpica或Transcarioca",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"\",\n\t\"major\": \"fluency/wrong order - The order of the highways should be 'Transoeste、Transolímpica或Transcarioca' instead of 'Transoeste, Transolímpica or Transcarioca'\",\n\t\"minor\": \"\"\n}\n```"
+    },
+    {
+        "id": 26,
+        "src": "places marked as city that have a wikidata entry and a name but no italian name in the selected window",
+        "hyp": "在所选窗口中标记为城市、有维基数据条目和名称但没有意大利语名称的地方",
+        "cor": "在选择的窗口中标记为城市、有维基数据条目和名称但没有意大利语名称的地方",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"\",\n\t\"major\": \"accuracy/mistranslation - '在所选窗口中' should be '在选择的窗口中'\",\n\t\"minor\": \"\"\n}\n```"
+    },
+    {
+        "id": 27,
+        "src": "Cities in Italy",
+        "hyp": "意大利的城市",
+        "cor": "意大利的城市",
+        "need correction": 0,
+        "mqm_info": "```json\n{\n\t\"critical\": \"\",\n\t\"major\": \"\",\n\t\"minor\": \"\"\n}\n```"
+    },
+    {
+        "id": 28,
+        "src": "All roads, streets and paths without speed limits in Pempelfort, Düsseldorf tagged as primary, secondary, tertiary, unclassified or residential",
+        "hyp": "所有在杜塞尔多夫佩姆佩尔福特区，未设速度限制且被标记为主要道路、次要道路、三级道路、未分类或居民区道路的道路、街道和小径",
+        "cor": "在杜塞尔多夫佩姆佩尔福特区，所有未设速度限制且归类为主要道路、次要道路、三级道路、未分类或居民区道路的道路、街道和小径",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"\",\n\t\"major\": \"accuracy/mistranslation - mistranslation of 'tagged as' as '且被标记为'\",\n\t\"minor\": \"fluency/wrong order - '所有' should be before '在杜塞尔多夫佩姆佩尔福特区'\"\n}\n```"
+    },
+    {
+        "id": 29,
+        "src": "peak in wielkopolskie",
+        "hyp": "wielkopolskie的山峰",
+        "cor": "wielkopolskie的高峰",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"\",\n\t\"major\": \"accuracy/mistranslation - 'peak' should be translated as '高峰' instead of '山峰'\",\n\t\"minor\": \"\"\n}\n```"
+    },
+    {
+        "id": 30,
+        "src": "traffic signs in Namur, Belgium",
+        "hyp": "比利时那慕尔的交通标志",
+        "cor": "比利时那慕尔的交通标志",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"\",\n\t\"major\": \"fluency/wrong order - 比利时 should be before 那慕尔\",\n\t\"minor\": \"\"\n}\n```"
+    },
+    {
+        "id": 31,
+        "src": "Way with the attribute nat_ref having a value 77N900303_5 in ile de france",
+        "hyp": "在Île-de-France的，属性nat_ref值为77N900303_5的道路",
+        "cor": "在Île-de-France，具有属性nat_ref且值为77N900303_5的道路",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"fluency/wrong order\",\n\t\"minor\": \"accuracy/mistranslation\"\n}\n```"
+    },
+    {
+        "id": 32,
+        "src": "Libraries in the Communauté d'agglomération Pau Béarn Pyrénées",
+        "hyp": "Communauté d'agglomération Pau Béarn Pyrénées的图书馆",
+        "cor": "Pau Béarn Pyrénées城市群的图书馆",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"fluency/wrong order\",\n\t\"minor\": \"accuracy/mistranslation\"\n}\n```"
+    },
+    {
+        "id": 33,
+        "src": "shower in current view",
+        "hyp": "当前视图中的淋浴设施",
+        "cor": "当前视图中的淋浴",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"none\",\n\t\"major\": \"accuracy/mistranslation - '淋浴设施' should be '淋浴'\",\n\t\"minor\": \"none\"\n}\n```"
+    },
+    {
+        "id": 34,
+        "src": "universities or colleges",
+        "hyp": "大学或学院",
+        "cor": "大学或学院",
+        "need correction": 0,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"no-error\",\n\t\"minor\": \"no-error\"\n}\n```"
+    },
+    {
+        "id": 35,
+        "src": "Roads, streets and paths tagged as \"living_street\" usable by the general public in Paris",
+        "hyp": "在巴黎，标记为\"生活街区\"的道路、街道和小径，供公众使用",
+        "cor": "在巴黎，标记为\"生活街区\"的道路、街道和小径，供公众使用",
+        "need correction": 0,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"no-error\",\n\t\"minor\": \"no-error\"\n}\n```"
+    },
+    {
+        "id": 36,
+        "src": "Highways or routes with official name Rodovia Reinaldo Adelino Baum in RS, Brasil",
+        "hyp": "在巴西RS州，官方名称为Rodovia Reinaldo Adelino Baum的高速公路或路线",
+        "cor": "官方名称为Rodovia Reinaldo Adelino Baum的高速公路或道路在巴西RS州",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"fluency/wrong order - '在巴西RS州' should be after '官方名称为Rodovia Reinaldo Adelino Baum的'\",\n\t\"minor\": \"accuracy/mistranslation - '高速公路或路线' should be '高速公路或道路'\"\n}\n```"
+    },
+    {
+        "id": 37,
+        "src": "Road lanes in Poland running in the same or opposite direction of the OSM-way",
+        "hyp": "在波兰与OSM道路同向或反向运行的道路车道",
+        "cor": "道路车道线在波兰与OSM道路同向或反向运行",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"fluency/wrong order - \\\"在波兰\\\" should be after \\\"道路车道\\\"\",\n\t\"minor\": \"accuracy/mistranslation - \\\"道路车道\\\" should be \\\"道路车道线\\\"\"\n}\n```"
+    },
+    {
+        "id": 38,
+        "src": "health facilities with a given type in the selected window",
+        "hyp": "在所选窗口中具有给定类型的卫生设施",
+        "cor": "具有给定类型的健康设施在所选窗口中",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"fluency/wrong order - '在所选窗口中' should be after '具有给定类型的卫生设施'\",\n\t\"minor\": \"accuracy/mistranslation - '卫生设施' should be '健康设施'\"\n}\n```"
+    },
+    {
+        "id": 39,
+        "src": "Administrative boundaries of Cainta, Philippines",
+        "hyp": "菲律宾Cainta的行政边界",
+        "cor": "菲律宾Cainta的行政边界",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"fluency/wrong order - \\\"菲律宾\\\" should be before \\\"Cainta\\\"\",\n\t\"minor\": \"no-error\"\n}\n```"
+    },
+    {
+        "id": 40,
+        "src": "Changes made by the user with the ID 8559160 on 2018-09-21 between 00:00:00 and 23:55:59",
+        "hyp": "2018-09-21 00:00:00至23:55:59之间，ID为8559160的用户所做的更改",
+        "cor": "2018-09-21 00:00:00至23:55:59之间，ID为8559160的用户做出的更改",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"accuracy/mistranslation - missing 'Changes made by the user'\",\n\t\"major\": \"fluency/wrong order - date and time should come before user ID\",\n\t\"minor\": \"accuracy/omission - missing 'with the'\"\n}\n```"
+    },
+    {
+        "id": 41,
+        "src": "doctors in Tirol",
+        "hyp": "蒂罗尔的医生",
+        "cor": "医生在蒂罗尔",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"fluency/wrong order - 蒂罗尔的 should be after 医生\",\n\t\"minor\": \"no-error\"\n}\n```"
+    },
+    {
+        "id": 42,
+        "src": "Way with the attribute railway having a value abandoned in California",
+        "hyp": "在加利福尼亚，具有属性railway且值为abandoned的道路",
+        "cor": "在加利福尼亚，属性为railway且值为abandoned的铁路",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"accuracy/mistranslation - '道路' should be '铁路'\",\n\t\"major\": \"fluency/wrong order - '在加利福尼亚' should be before '具有属性railway且值为abandoned'\",\n\t\"minor\": \"accuracy/omission - 'Way with the attribute railway having a value abandoned' not fully translated\"\n}\n```"
+    },
+    {
+        "id": 43,
+        "src": "aircraft in current view",
+        "hyp": "当前视图中的飞机",
+        "cor": "当前视图中的飞机",
+        "need correction": 0,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"no-error\",\n\t\"minor\": \"no-error\"\n}\n```"
+    },
+    {
+        "id": 44,
+        "src": "Level 6 administrative areas in Haryana",
+        "hyp": "哈里亚纳邦六级行政区域",
+        "cor": "哈里亚纳邦的第六级行政区域",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"fluency/wrong order - 哈里亚纳邦 should be before 六级行政区域\",\n\t\"minor\": \"accuracy/mistranslation - Level 6 should be translated as 第六级\"\n}\n```"
+    },
+    {
+        "id": 45,
+        "src": "lake in current view",
+        "hyp": "当前视图中的湖泊",
+        "cor": "当前视图中的湖",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"terminology/inappropriate for context - \\\"湖泊\\\" should be \\\"湖\\\"\",\n\t\"minor\": \"no-error\"\n}\n```"
+    },
+    {
+        "id": 46,
+        "src": "pub in current view",
+        "hyp": "当前视图中的酒吧",
+        "cor": "当前视图中的酒馆",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"terminology/inappropriate for context - 酒吧 should be 酒馆\",\n\t\"minor\": \"no-error\"\n}\n```"
+    },
+    {
+        "id": 47,
+        "src": "All objects made by Vensys Energy AG",
+        "hyp": "Vensys Energy AG制造的所有对象",
+        "cor": "Vensys Energy AG生产的所有产品或设备",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"accuracy/mistranslation - objects should be translated as 产品 or 设备\",\n\t\"minor\": \"fluency/wrong order - Vensys Energy AG should be at the end\"\n}\n```"
+    },
+    {
+        "id": 48,
+        "src": "trainroutes, railway stations or stop positions in the selected window",
+        "hyp": "所选窗口内的火车路线、铁路车站或停靠位置",
+        "cor": "所选窗口内的火车路线、铁路车站或停靠位置",
+        "need correction": 0,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"no-error\",\n\t\"minor\": \"no-error\"\n}\n```"
+    },
+    {
+        "id": 49,
+        "src": "Admin level 4 in Angola",
+        "hyp": "安哥拉的行政级别4",
+        "cor": "安哥拉行政等级4",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"fluency/wrong order - 安哥拉的 should be after 行政级别4\",\n\t\"minor\": \"accuracy/mistranslation - 行政级别 should be translated as 行政等级\"\n}\n```"
+    },
+    {
+        "id": 50,
+        "src": "castle in Deutschland",
+        "hyp": "德国的城堡",
+        "cor": "德国的城堡",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"fluency/wrong order - 德国的 should be after 城堡\",\n\t\"minor\": \"accuracy/mistranslation - 城堡 should be translated as 建筑物\"\n}\n```"
+    },
+    {
+        "id": 51,
+        "src": "Tram railways in Magnitogorsk which are not located in a railway yard and without spur, siding or crossover tracks",
+        "hyp": "马格尼托哥尔斯克的有轨电车铁路，不位于铁路车场且没有支线、侧线或渡线轨道",
+        "cor": "位于马格尼托哥尔斯克的有轨电车铁路，这些铁路没有位于铁路车场且缺乏支线、侧线或渡线轨道",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"fluency/wrong order - 马格尼托哥尔斯克的有轨电车铁路 should be before the description\",\n\t\"minor\": \"accuracy/mistranslation - 缺乏 should be added before 不位于铁路车场\"\n}\n```"
+    },
+    {
+        "id": 52,
+        "src": "Glass and clothes recycling places in Gironde",
+        "hyp": "Gironde的玻璃和衣物回收地点",
+        "cor": "Gironde的衣物和玻璃回收地点",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"fluency/wrong order - 玻璃和衣物 should be 衣物和玻璃\",\n\t\"minor\": \"no-error\"\n}\n```"
+    },
+    {
+        "id": 53,
+        "src": "Nodes and ways that were edited between 2019-02-11T00:00:00Z and 2019-02-11T23:55:59Z by the user with the ID 7725447",
+        "hyp": "在2019-02-11T00:00:00Z到2019-02-11T23:55:59Z间，由ID为7725447的用户编辑的节点和道路",
+        "cor": "由ID为7725447的用户在2019-02-11T00:00:00Z到2019-02-11T23:55:59Z间编辑的节点和道路",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"fluency/wrong order - '节点和道路' should be before '由ID为7725447的用户编辑的'\",\n\t\"minor\": \"accuracy/omission - '用户' is missing in the translation\"\n}\n```"
+    },
+    {
+        "id": 54,
+        "src": "Schools with Gemeindeschlüssel 05166032",
+        "hyp": "Gemeindeschlüssel 05166032的学校",
+        "cor": "Gemeindeschlüssel为05166032的学校名称",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"accuracy/mistranslation - '学校' should be '学校名称'\",\n\t\"major\": \"fluency/wrong order - 'Gemeindeschlüssel 05166032' should be before '的'\",\n\t\"minor\": \"no-error\"\n}\n```"
+    },
+    {
+        "id": 55,
+        "src": "Note with no highway, no landuse, no leisure, no natural, no boundary, no route in Arrondissement Dendermonde in Belgium",
+        "hyp": "比利时Dendermonde区没有高速公路、土地使用、休闲设施、自然景观、边界或路线的注记",
+        "cor": "在比利时Dendermonde区的注记中，没有\"高速公路\"、\"土地使用\"、\"休闲设施\"、\"自然景观\"、\"边界\"或\"路线\"",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"fluency/wrong order - 比利时 should be after Dendermonde\",\n\t\"minor\": \"accuracy/omission - missing translation for 'no'\"\n}\n```"
+    },
+    {
+        "id": 56,
+        "src": "Railway stations in Sverige",
+        "hyp": "瑞典的火车站",
+        "cor": "瑞典的火车站建筑物",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"terminology/inappropriate for context - 火车站 should be 火车站建筑物\",\n\t\"minor\": \"fluency/wrong order - 瑞典的 should be placed after 火车站\"\n}\n```"
+    },
+    {
+        "id": 57,
+        "src": "surface, amount and lenght of roads that are not for bicycles, pedestrians or service and not under construction in Czerniewicz,Jaraguá do Sul",
+        "hyp": "Czerniewicz, Jaraguá do Sul中不是供自行车、行人或服务使用且不在建设中的道路的表面、数量和长度",
+        "cor": "不是供自行车、行人或服务使用且不在建设中的道路的面积、数量和长度，在Czerniewicz, Jaraguá do Sul中",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"fluency/wrong order - Czerniewicz, Jaraguá do Sul中 should be at the end of the sentence\",\n\t\"minor\": \"accuracy/mistranslation - 道路的表面、数量和长度 should be 面积、数量和长度\"\n}\n```"
+    },
+    {
+        "id": 58,
+        "src": "Way with the attribute service having a value emergency_access in Quebec",
+        "hyp": "在魁北克，具有属性service且值为emergency_access的道路",
+        "cor": "带有属性service且值为emergency_access的道路，在魁北克",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"fluency/wrong order - 在魁北克 should be after 具有属性service且值为emergency_access的道路\",\n\t\"major\": \"accuracy/mistranslation - 具有属性 should be 带有属性\",\n\t\"minor\": \"no-error\"\n}\n```"
+    },
+    {
+        "id": 59,
+        "src": "Office buildings in current view",
+        "hyp": "当前视图中的办公楼宇",
+        "cor": "当前视图中的办公楼宇",
+        "need correction": 0,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"no-error\",\n\t\"minor\": \"no-error\"\n}\n```"
+    },
+    {
+        "id": 60,
+        "src": "Pipeline markers in current view",
+        "hyp": "当前视图中的管道标记",
+        "cor": "管道标记在当前视图中",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"fluency/wrong order - 当前视图中的 should be after 管道标记\",\n\t\"minor\": \"no-error\"\n}\n```"
+    },
+    {
+        "id": 61,
+        "src": "roads in civil parishes in South Somerset",
+        "hyp": "South Somerset内的民政教区道路",
+        "cor": "South Somerset地方行政区内的道路",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"accuracy/mistranslation - 民政教区 should be translated as 地方行政区\",\n\t\"minor\": \"fluency/wrong order - South Somerset内的 should be before 民政教区道路\"\n}\n```"
+    },
+    {
+        "id": 62,
+        "src": "Gas stations with bio fuel in Україна",
+        "hyp": "在Україна的生物燃料加油站",
+        "cor": "Україна的生物燃料加油站",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"fluency/wrong order - 在Україна should be after 生物燃料加油站\",\n\t\"minor\": \"accuracy/mistranslation - 生物燃料 should be 生物燃料\"\n}\n```"
+    },
+    {
+        "id": 63,
+        "src": "Admin level 9 in Budapest",
+        "hyp": "Budapest的行政级别9",
+        "cor": "Budapest的行政等级9",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"fluency/wrong order - Budapest的 should be before 行政级别9\",\n\t\"minor\": \"accuracy/mistranslation - 行政级别 should be 行政等级\"\n}\n```"
+    },
+    {
+        "id": 64,
+        "src": "library in Hamburg",
+        "hyp": "汉堡图书馆",
+        "cor": "汉堡的图书馆",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"terminology/inappropriate for context - 汉堡图书馆 should be 汉堡的图书馆\",\n\t\"major\": \"no-error\",\n\t\"minor\": \"no-error\"\n}\n```"
+    },
+    {
+        "id": 65,
+        "src": "Changes made by the user with the ID 9388982 on 2019-08-02 between 00:00:00 and 23:55:59",
+        "hyp": "2019-08-02 00:00:00至23:55:59之间，ID为9388982的用户所做的更改",
+        "cor": "2019-08-02日 00:00:00至23:55:59之间，ID为9388982的用户所做的修改",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"accuracy/mistranslation - 更改 should be 修改\",\n\t\"major\": \"fluency/wrong order - 2019-08-02 should be before 00:00:00至23:55:59之间\",\n\t\"minor\": \"locale convention/date format - 2019-08-02 should have a space after the hyphen\"\n}\n```"
+    },
+    {
+        "id": 66,
+        "src": "Admin level 5 in Maroc",
+        "hyp": "摩洛哥的行政级别5",
+        "cor": "摩洛哥的行政五级",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"terminology/inappropriate for context - 行政级别5 should be 行政五级\",\n\t\"major\": \"fluency/wrong order - 摩洛哥的 should be before 行政五级\",\n\t\"minor\": \"no-error\"\n}\n```"
+    },
+    {
+        "id": 67,
+        "src": "nodes on the London Underground network that were not created by JOSM or Yahoo",
+        "hyp": "伦敦地铁网络上未由JOSM或Yahoo创建的节点",
+        "cor": "不是由JOSM或Yahoo创建的伦敦地铁网络上的节点",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"fluency/wrong order - 伦敦地铁网络 should be after 节点\",\n\t\"minor\": \"accuracy/mistranslation - 未由 should be 不是由\"\n}\n```"
+    },
+    {
+        "id": 68,
+        "src": "Admin level 6 in algeria",
+        "hyp": "阿尔及利亚的行政级别6",
+        "cor": "阿尔及利亚的行政级别6",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"fluency/wrong order - 阿尔及利亚的 should be before 行政级别6\",\n\t\"minor\": \"accuracy/mistranslation - 行政级别 should be 行政级别\"\n}\n```"
+    },
+    {
+        "id": 69,
+        "src": "Places in the Netherlands with a name like \"Bel Company\"",
+        "hyp": "荷兰名为“Bel Company”的地方",
+        "cor": "名为\"Bel Company\"的荷兰地点",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"fluency/wrong order - 荷兰 should be after 名为\",\n\t\"minor\": \"accuracy/mistranslation - 地方 should be 地点\"\n}\n```"
+    },
+    {
+        "id": 70,
+        "src": "ways with the ids 613126639,613126640,613126642,613126643,613126644,613126645,613126647,613126648,613126649,613126650,613126652,613126654,613126655,613126656,613126657,613126658,613126659,613126660,613126661,613126662",
+        "hyp": "id为613126639、613126640、613126642、613126643、613126644、613126645、613126647、613126648、613126649、613126650、613126652、613126654、613126655、613126656、613126657、613126658、613126659、613126660、613126661、613126662的道路",
+        "cor": "具有id为613126639、613126640、613126642、613126643、613126644、613126645、613126647、613126648、613126649、613126650、613126652、613126654、613126655、613126656、613126657、613126658、613126659、613126660、613126661、613126662的道路",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"accuracy/omission - 缺少'具有'\",\n\t\"major\": \"fluency/wrong order - id为 should come after 道路\",\n\t\"minor\": \"no-error\"\n}\n```"
+    },
+    {
+        "id": 71,
+        "src": "a node that is newer than 2018-01-25 in Seignanx canton in France",
+        "hyp": "在法国Seignanx区，比2018-01-25更新的节点",
+        "cor": "在法国Seignanx区，比2018年01月25日更新的节点",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"accuracy/mistranslation - 更新 should be 新er\",\n\t\"major\": \"fluency/wrong order - 在法国Seignanx区 should be after 比2018-01-25\",\n\t\"minor\": \"locale convention - date format should be 2018年01月25日\"\n}\n```"
+    },
+    {
+        "id": 72,
+        "src": "Ways and nodes with the uid 8610571 changed between 2018-09-05T00:00:00Z and 2018-09-05T23:50:59Z",
+        "hyp": "在2018-09-05T00:00:00Z到2018-09-05T23:50:59Z之间变更的、uid为8610571的道路和节点",
+        "cor": "uid为8610571的路径和节点在2018-09-05T00:00:00Z到2018-09-05T23:50:59Z之间发生了变更",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"accuracy/mistranslation - 道路和节点 should be changed to 路径和节点\",\n\t\"major\": \"fluency/wrong order - 在 should be after uid为8610571\",\n\t\"minor\": \"accuracy/omission - missing translation for 'Ways and nodes with the'\"\n}\n```"
+    },
+    {
+        "id": 73,
+        "src": "microbreweries and breweries as well as Brewpub breweries in the current view",
+        "hyp": "当前视图中的微型酿酒厂、酿酒厂以及酿酒酒吧",
+        "cor": "微型酿酒厂、酿酒厂以及酿酒酒吧在当前视图中",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"fluency/wrong order - 当前视图中的 should be after 微型酿酒厂、酿酒厂以及酿酒酒吧\",\n\t\"minor\": \"accuracy/mistranslation - 当前视图中的 should be translated as 在当前视图中的\"\n}\n```"
+    },
+    {
+        "id": 74,
+        "src": "Way with the attribute usage having a value main in Colorado",
+        "hyp": "在科罗拉多州，属性usage值为main的道路",
+        "cor": "属性usage值为main的道路，在科罗拉多州",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"fluency/wrong order - 在科罗拉多州 should be after 属性usage值为main的\",\n\t\"minor\": \"accuracy/mistranslation - 道路 should be 道\"\n}\n```"
+    },
+    {
+        "id": 75,
+        "src": "buildings in Split in current view",
+        "hyp": "当前视图中的斯普利特建筑物",
+        "cor": "斯普利特当前视图中的建筑物",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"fluency/wrong order - 当前视图中的 should be after 斯普利特\",\n\t\"minor\": \"no-error\"\n}\n```"
+    },
+    {
+        "id": 76,
+        "src": "All Hemes post offices in current view",
+        "hyp": "当前视图中的所有Hemes邮局",
+        "cor": "当前视图中的所有Hemes邮局分店",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"terminology/inappropriate for context - Hemes邮局 should be Hemes邮局分店\",\n\t\"major\": \"no-error\",\n\t\"minor\": \"no-error\"\n}\n```"
+    },
+    {
+        "id": 77,
+        "src": "residential, tertiary or unclassified highways in the selected window",
+        "hyp": "选定窗口中的住宅、次要或未分类公路",
+        "cor": "选定窗口中的住宅、次要或未分类公路",
+        "need correction": 0,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"no-error\",\n\t\"minor\": \"no-error\"\n}\n```"
+    },
+    {
+        "id": 78,
+        "src": "fuel in Friuli Venezia Giulia",
+        "hyp": "Friuli Venezia Giulia的燃料",
+        "cor": "Friuli Venezia Giulia的加油站",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"accuracy/mistranslation - 燃料 should be 加油站\",\n\t\"major\": \"fluency/wrong order - Friuli Venezia Giulia should be before 的\",\n\t\"minor\": \"no-error\"\n}\n```"
+    },
+    {
+        "id": 79,
+        "src": "Minor power lines in current view",
+        "hyp": "当前视图中的小型电力线路",
+        "cor": "当前视图中的次要电力线路",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"accuracy/mistranslation - 小型 should be 次要\",\n\t\"minor\": \"no-error\"\n}\n```"
+    },
+    {
+        "id": 80,
+        "src": "second hand shops in Provence-Alpes-Côte d'Azur in France",
+        "hyp": "法国普罗旺斯-阿尔卑斯-蓝色海岸地区的二手店",
+        "cor": "法国普罗旺斯-阿尔卑斯-蓝色海岸地区的二手店",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"fluency/wrong order - 法国 should be before 普罗旺斯-阿尔卑斯-蓝色海岸地区\",\n\t\"minor\": \"no-error\"\n}\n```"
+    },
+    {
+        "id": 81,
+        "src": "Bicycle parking in current view",
+        "hyp": "当前视图中的自行车停车处",
+        "cor": "当前视图中的自行车停放点",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"accuracy/mistranslation - 自行车停车处 should be 自行车停放点\",\n\t\"minor\": \"no-error\"\n}\n```"
+    },
+    {
+        "id": 82,
+        "src": "Administrative boundaries of subdistricts in Chhattisgarh",
+        "hyp": "查蒂斯加尔邦街道的行政边界",
+        "cor": "查蒂斯加尔邦的街道行政边界",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"fluency/wrong order - 行政边界 should be before 街道\",\n\t\"minor\": \"no-error\"\n}\n```"
+    },
+    {
+        "id": 83,
+        "src": "Changes made by the user with the ID 7863709 on 2018-08-01 between 00:00:00 and 23:30:59",
+        "hyp": "2018-08-01 00:00:00至23:30:59期间，ID为7863709的用户所做的更改",
+        "cor": "ID为7863709的用户在2018-08-01 00:00:00至23:30:59期间所做的修改",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"fluency/wrong order - 2018-08-01 should come after ID为7863709\",\n\t\"minor\": \"accuracy/mistranslation - 更改 should be 修改\"\n}\n```"
+    },
+    {
+        "id": 84,
+        "src": "a library with a name in Norway",
+        "hyp": "挪威的一个名为的图书馆",
+        "cor": "挪威的一个有名字的图书馆",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"accuracy/mistranslation - 名为 should be 以一个名字\",\n\t\"major\": \"fluency/wrong order - 挪威的 should be before 一个\",\n\t\"minor\": \"no-error\"\n}\n```"
+    },
+    {
+        "id": 85,
+        "src": "Places with a house number in Karnataka",
+        "hyp": "卡纳塔克邦有门牌号的地方",
+        "cor": "卡纳塔克邦有房屋号的地方",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"accuracy/mistranslation - 门牌号 should be 房屋号\",\n\t\"minor\": \"fluency/wrong order - 卡纳塔克邦 should be before 有房屋号的地方\"\n}\n```"
+    },
+    {
+        "id": 86,
+        "src": "major roads 20 meters around coordinates 49.798213, 5.522851",
+        "hyp": "坐标49.798213, 5.522851周围20米的主要道路",
+        "cor": "周围20米内的主干道，坐标49.798213, 5.522851",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"fluency/wrong order - 坐标49.798213, 5.522851 should be at the end\",\n\t\"minor\": \"accuracy/mistranslation - 主要道路 should be 主干道\"\n}\n```"
+    },
+    {
+        "id": 87,
+        "src": "Farms in Brazil whose name starts with \"Sitio \"",
+        "hyp": "巴西名字以“Sitio ”开头的农场",
+        "cor": "名字以\"Sitio \"开头的巴西的农场",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"fluency/wrong order - 巴西 should be after 农场\",\n\t\"minor\": \"accuracy/mistranslation - 巴西 should be 巴西的\"\n}\n```"
+    },
+    {
+        "id": 88,
+        "src": "subway entrance in Kharkiv",
+        "hyp": "哈尔科夫地铁入口",
+        "cor": "地铁站哈尔科夫入口",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"accuracy/mistranslation - 地铁入口 should be 地铁站入口\",\n\t\"major\": \"no-error\",\n\t\"minor\": \"fluency/wrong order - 哈尔科夫 should be after 地铁站\"\n}\n```"
+    },
+    {
+        "id": 89,
+        "src": "surface, amount and lenght of roads that are not for bicycles, pedestrians or service and not under construction in Estrada Nova,Jaraguá do Sul",
+        "hyp": "Estrada Nova, Jaraguá do Sul中不适用于自行车、行人或服务且未在建设中的道路的表面、数量和长度",
+        "cor": "不是用于自行车、行人或服务且未在建设中的道路的表面、数量和长度，在Estrada Nova, Jaraguá do Sul中",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"fluency/wrong order - Estrada Nova, Jaraguá do Sul中 should be at the end\",\n\t\"minor\": \"accuracy/mistranslation - 不适用于 should be translated as 不是用于\"\n}\n```"
+    },
+    {
+        "id": 90,
+        "src": "the ways with the ids 109026389, 109026393, 11786859, 11786872, 11787438, 11787748, 11787791, 11787792 and 11787795 in Cuyahoga County, Ohio",
+        "hyp": "在俄亥俄州库亚霍加县的道路，其ID分别为109026389、109026393、11786859、11786872、11787438、11787748、11787791、11787792和11787795",
+        "cor": "位于俄亥俄州库亚霍加县，ID分别为109026389、109026393、11786859、11786872、11787438、11787748、11787791、11787792和11787795的道路",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"fluency/wrong order - 在俄亥俄州库亚霍加县的道路 should be before the ids\",\n\t\"minor\": \"no-error\"\n}\n```"
+    },
+    {
+        "id": 91,
+        "src": "Towns, cities and villages in South West Michigan",
+        "hyp": "南西密歇根的城镇、城市和村庄",
+        "cor": "密西根州西南部的城镇、城市和村庄",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"fluency/wrong order - 南西密歇根 should be before 的城镇、城市和村庄\",\n\t\"minor\": \"no-error\"\n}\n```"
+    },
+    {
+        "id": 92,
+        "src": "Find Zamenhof and Esperanto in current view",
+        "hyp": "在当前视图中查找Zamenhof和世界语",
+        "cor": "查找当前视图中的Zamenhof和Esperanto",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"fluency/wrong order - 在当前视图中 should be after 查找\",\n\t\"minor\": \"accuracy/mistranslation - 世界语 should be 世界语言\"\n}\n```"
+    },
+    {
+        "id": 93,
+        "src": "bowling alley, bandstands, clubs, dance halls, social clubs, hackerspaces, bars, pubs, biergartens, cafes, nightclubs or event venues in the selected window",
+        "hyp": "选定窗口内的保龄球馆、乐队台、俱乐部、舞厅、社交俱乐部、黑客空间、酒吧、酒馆、啤酒花园、咖啡厅、夜总会或活动场地",
+        "cor": "选定窗口内的保龄球馆、乐队台、俱乐部、舞厅、社交俱乐部、黑客空间、酒吧、酒馆、啤酒花园、咖啡厅、夜总会或活动场地",
+        "need correction": 0,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"no-error\",\n\t\"minor\": \"no-error\"\n}\n```"
+    },
+    {
+        "id": 94,
+        "src": "bicycle rental in Saint-Étienne, France",
+        "hyp": "Saint-Étienne, France的自行车租赁",
+        "cor": "法国Saint-Étienne的自行车出租",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"fluency/wrong order - Saint-Étienne, France should be before 自行车租赁\",\n\t\"minor\": \"accuracy/mistranslation - 自行车租赁 should be 自行车出租\"\n}\n```"
+    },
+    {
+        "id": 95,
+        "src": "an administrative boundary in Switzerland with admin level 8 and it does not have BFS Nummer as swisstopo",
+        "hyp": "瑞士的一个行政边界，行政级别为8，且没有瑞士联邦地理信息局的BFS编号",
+        "cor": "瑞士的一个行政边界，行政等级为8，且没有瑞士联邦地理信息局的BFS编号",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"accuracy/mistranslation - 行政级别为8 should be 行政等级为8\",\n\t\"minor\": \"no-error\"\n}\n```"
+    },
+    {
+        "id": 96,
+        "src": "designated bicycle path in the current view also for walking by foot",
+        "hyp": "当前视图中指定的自行车道也适合步行",
+        "cor": "指定的自行车道也供步行使用，在当前视图中",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"fluency/wrong order - 当前视图中 should be after 指定的自行车道\",\n\t\"minor\": \"accuracy/mistranslation - 适合 should be 供\"\n}\n```"
+    },
+    {
+        "id": 97,
+        "src": "parking spots next to the road in the selected window",
+        "hyp": "选定窗口内靠近道路的停车位",
+        "cor": "在选定区域旁的道路边停车位",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"fluency/wrong order - 选定 should be before 靠近道路\",\n\t\"minor\": \"accuracy/mistranslation - 窗口内 should be 窗口旁\"\n}\n```"
+    },
+    {
+        "id": 98,
+        "src": "Ways and nodes with the uid 9847941 changed between 2019-06-25T00:00:00Z and 2019-06-25T23:57:59Z",
+        "hyp": "在2019-06-25T00:00:00Z到2019-06-25T23:57:59Z之间变更的、uid是9847941的道路和节点",
+        "cor": "uid为9847941的路线和节点在2019-06-25T00:00:00Z到2019-06-25T23:57:59Z之间发生了变化",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"accuracy/mistranslation - 道路和节点 should be 路线和节点\",\n\t\"major\": \"fluency/wrong order - 在...之间 should be at the end, uid是9847941 should be after 道路和节点\",\n\t\"minor\": \"accuracy/mistranslation - 变更 should be 变化\"\n}\n```"
+    },
+    {
+        "id": 99,
+        "src": "sand in current view",
+        "hyp": "当前视图中的沙子",
+        "cor": "当前视图中的沙",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"terminology/inappropriate for context - 沙子 should be 沙\",\n\t\"major\": \"no-error\",\n\t\"minor\": \"no-error\"\n}\n```"
+    },
+    {
+        "id": 100,
+        "src": "Places whose \"opening_hours\" have a value beginning with \"opening_hours\"",
+        "hyp": "“开放时间”的值以“开放时间”开头的地点",
+        "cor": "其\"营业时间\"值以\"营业时间\"开头的地点",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"fluency/wrong order - “开放时间” should be after 地点\",\n\t\"minor\": \"accuracy/mistranslation - 开放时间 should be 营业时间\"\n}\n```"
+    },
+    {
+        "id": 101,
+        "src": "degrowth identity in the selected window",
+        "hyp": "在选定窗口中的降级标识",
+        "cor": "选定窗口中的去增长身份",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"fluency/wrong order - 在选定窗口中 should be after 降级标识\",\n\t\"minor\": \"accuracy/mistranslation - 降级标识 should be 降低身份\"\n}\n```"
+    },
+    {
+        "id": 102,
+        "src": "piers or parking spots in the selected window",
+        "hyp": "所选窗口内的码头或停车位",
+        "cor": "所选窗口内的码头或停车位",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"fluency/wrong order - 所选窗口内的 should be before 码头或停车位\",\n\t\"minor\": \"no-error\"\n}\n```"
+    },
+    {
+        "id": 103,
+        "src": "all intersections of highways with operating railways",
+        "hyp": "高速公路与运营中的铁路的所有交叉口",
+        "cor": "高速公路和运营中铁路的所有交汇处",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"accuracy/mistranslation - 交叉口 should be 交汇处\",\n\t\"major\": \"fluency/wrong order - 高速公路与运营中的铁路 should be 高速公路和运营中的铁路\",\n\t\"minor\": \"no-error\"\n}\n```"
+    },
+    {
+        "id": 104,
+        "src": "hospitals, police stations, supermarkets and aeroway gates in current view",
+        "hyp": "当前视图中的医院、警察局、超市和航空门",
+        "cor": "当前视图中的医院、警察局、超市建筑物和航站楼门",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"fluency/wrong order - 航空门 should be after aeroway gates\",\n\t\"minor\": \"accuracy/mistranslation - 超市 should be 超市建筑物\"\n}\n```"
+    },
+    {
+        "id": 105,
+        "src": "Hospitals specializing in intensive care in Germany",
+        "hyp": "德国专门从事重症监护的医院",
+        "cor": "德国专门从事重症监护的医院",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"fluency/wrong order - 德国 should be before 专门从事\",\n\t\"minor\": \"accuracy/mistranslation - 重症监护 should be 重症监护病房\"\n}\n```"
+    },
+    {
+        "id": 106,
+        "src": "destination sign in  Australia",
+        "hyp": "澳大利亚目的地标志",
+        "cor": "澳大利亚的目的地标牌",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"fluency/wrong order - 澳大利亚 should be before 目的地标志\",\n\t\"minor\": \"accuracy/mistranslation - 目的地标志 should be 目的地标牌\"\n}\n```"
+    },
+    {
+        "id": 107,
+        "src": "Ways and nodes with the uid 7725415 changed between 2018-09-10T00:00:00Z and 2018-09-11T23:59:59Z",
+        "hyp": "在2018-09-10T00:00:00Z到2018-09-11T23:59:59Z之间变更的、uid是7725415的道路和节点",
+        "cor": "uid为7725415的方式和节点在2018-09-10T00:00:00Z到2018-09-11T23:59:59Z之间发生了变化",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"accuracy/mistranslation - 道路和节点 should be 方式和节点\",\n\t\"major\": \"fluency/wrong order - 在2018-09-10T00:00:00Z到2018-09-11T23:59:59Z之间变更的 should be 7725415的uid在2018-09-10T00:00:00Z到2018-09-11T23:59:59Z之间发生了变化的\",\n\t\"minor\": \"no-error\"\n}\n```"
+    },
+    {
+        "id": 108,
+        "src": "Traffic calming installaions in Brazil",
+        "hyp": "巴西的交通稳静化设施",
+        "cor": "巴西的交通平静设施",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"fluency/wrong order - 巴西的 should be before 交通稳静化设施\",\n\t\"minor\": \"accuracy/mistranslation - 稳静化 should be calm\"\n}\n```"
+    },
+    {
+        "id": 109,
+        "src": "museum in stuttgart",
+        "hyp": "斯图加特博物馆",
+        "cor": "斯图加特的博物馆建筑",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"fluency/wrong order - 斯图加特 should be before 博物馆\",\n\t\"minor\": \"accuracy/mistranslation - 博物馆 should be translated as 博物馆建筑\"\n}\n```"
+    },
+    {
+        "id": 110,
+        "src": "Railway stations named Planegg",
+        "hyp": "Planegg命名的火车站",
+        "cor": "命名为Planegg的火车站",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"terminology/inappropriate for context - 命名的 should be 命名的火车站\",\n\t\"minor\": \"fluency/wrong order - Planegg should be after 火车站\"\n}\n```"
+    },
+    {
+        "id": 111,
+        "src": "winery in current view",
+        "hyp": "当前视图中的酒庄",
+        "cor": "当前视图中的葡萄酒厂",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"terminology/inappropriate for context - 酒庄 should be 葡萄酒厂\",\n\t\"major\": \"no-error\",\n\t\"minor\": \"no-error\"\n}\n```"
+    },
+    {
+        "id": 112,
+        "src": "nodes and ways with wikidata id Q55935433 brand in Belgium",
+        "hyp": "具有wikidata id Q55935433品牌在比利时的节点和道路",
+        "cor": "在比利时具有wikidata id Q55935433的建筑和位置",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"terminology/inappropriate for context - 品牌 should be 建筑\",\n\t\"major\": \"fluency/wrong order - 在比利时 should be after 品牌\",\n\t\"minor\": \"accuracy/mistranslation - 节点和道路 should be 建筑和位置\"\n}\n```"
+    },
+    {
+        "id": 113,
+        "src": "phone numbers of all objects in Махачкала and Советский район",
+        "hyp": "Махачкала和Советский区所有对象的电话号码",
+        "cor": "Махачкала和Советский区所有对象的电话号码",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"fluency/wrong order - Махачкала和Советский区 should be before 所有对象的电话号码\",\n\t\"minor\": \"accuracy/mistranslation - 电话号码 should be 电话号码\"\n}\n```"
+    },
+    {
+        "id": 114,
+        "src": "Abandoned railways in current view",
+        "hyp": "当前视图中的废弃铁路",
+        "cor": "当前视图中的废弃的铁路",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"fluency/wrong order - 当前视图中的 should be before 废弃铁路\",\n\t\"minor\": \"accuracy/mistranslation - 废弃 should be 废弃的\"\n}\n```"
+    },
+    {
+        "id": 115,
+        "src": "All cities in Тернопільська область with a name or a Wikipedia entry",
+        "hyp": "Тернопільська область所有有名称或维基百科条目的城市",
+        "cor": "所有Тернопільська область内有名称或维基百科条目的城市",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"fluency/wrong order - Тернопільська область should be after 所有\",\n\t\"minor\": \"accuracy/mistranslation - 城市 should be translated as 城市 or 市\"\n}\n```"
+    },
+    {
+        "id": 116,
+        "src": "historic castles and restaurants 30 meters around those in Switzerland",
+        "hyp": "瑞士周围30米内的历史城堡和餐厅",
+        "cor": "在瑞士周围30米内的历史的城堡和餐厅",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"flunecy/wrong order - 瑞士周围 should be after 30米内的\",\n\t\"minor\": \"accuracy/mistranslation - 历史 should be 历史的\"\n}\n```"
+    },
+    {
+        "id": 117,
+        "src": "School in town in Germany whose Gemeindeschlüssel is 05166032",
+        "hyp": "德国某镇的学校，其Gemeindeschlüssel为05166032",
+        "cor": "位于德国某个镇、其市镇代码为05166032的学校",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"fluency/wrong order - 德国某镇的学校 should be 学校在德国的某个镇\",\n\t\"minor\": \"accuracy/mistranslation - Gemeindeschlüssel should be translated\"\n}\n```"
+    },
+    {
+        "id": 118,
+        "src": "Districts and subdistricts in Kurnool",
+        "hyp": "Kurnool的区和街道",
+        "cor": "Kurnool的区域和街道",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"fluency/wrong order - Kurnool的 should be before 区和街道\",\n\t\"minor\": \"accuracy/mistranslation - 区 should be 区域\"\n}\n```"
+    },
+    {
+        "id": 119,
+        "src": "Places in PE Brasil that start their name with Prefeitura",
+        "hyp": "巴西PE州以Prefeitura开头的地名",
+        "cor": "以Prefeitura开头的巴西PE州地点",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"fluency/wrong order - 巴西PE州 should be after 以Prefeitura开头的地名\",\n\t\"minor\": \"accuracy/mistranslation - 地名 should be 地点\"\n}\n```"
+    },
+    {
+        "id": 120,
+        "src": "water not from a canal but possibly a lake in the current view",
+        "hyp": "当前视图中的水不是来自运河，而可能是湖泊",
+        "cor": "当前视图中的水不是来自运河，而可能是湖泊",
+        "need correction": 0,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"no-error\",\n\t\"minor\": \"no-error\"\n}\n```"
+    },
+    {
+        "id": 121,
+        "src": "Way with the attribute service having a value yard in South Dakota",
+        "hyp": "在南达科他州，属性service值为yard的道路",
+        "cor": "属性service值为yard的、在南达科他州的路段",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"accuracy/mistranslation - 道路 should be translated as 路段\",\n\t\"major\": \"fluency/wrong order - 在南达科他州 should be after 属性service值为yard的\",\n\t\"minor\": \"no-error\"\n}\n```"
+    },
+    {
+        "id": 122,
+        "src": "Admin level 5 in Rajasthan",
+        "hyp": "拉贾斯坦邦的行政级别5的区域",
+        "cor": "拉贾斯坦邦的行政级别5行政区划",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"terminology/inappropriate for context - 区域 should be 行政区划\",\n\t\"major\": \"fluency/wrong order - 拉贾斯坦邦的 should be before 行政级别5\",\n\t\"minor\": \"no-error\"\n}\n```"
+    },
+    {
+        "id": 123,
+        "src": "One way roads, streets and paths in Thuringia in direction of the OSM way tagged as \"motorway_link\"",
+        "hyp": "图林根州单行道、街道和小径中标记为“motorway_link”的OSM方向",
+        "cor": "图林根州的道路、街道和路径中，在标记为\"motorway_link\"的OSM方向上的单行道",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"terminology/inappropriate for context - 单行道、街道和小径 should be translated as 道路、街道和路径\",\n\t\"major\": \"fluency/wrong order - OSM方向 should be before 标记为“motorway_link”\",\n\t\"minor\": \"accuracy/mistranslation - 方向 should be translated as 方向上\"\n}\n```"
+    },
+    {
+        "id": 124,
+        "src": "Roads, streets or paths in area 3606195356 that are not in way 294140400 and aren't pistes or roundabouts and contain reference tags starting with a single digit followed by anything except either another digit or the sequence \"; M\" in current view",
+        "hyp": "当前视图中，区域3606195356内的道路、街道或路径，不属于道路294140400，且不是滑雪道或环岛，包含的参考标签以单个数字开头，其后接任何字符但不是另一个数字或\"; M\"序列",
+        "cor": "区域3606195356内的道路、街道或路径，在当前视图中不在道路294140400内，且不是滑雪道或环岛，包含的参考标签以单个数字开头，其后接任何字符但不是另一个数字或\"; M\"序列",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"fluency/wrong order - 当前视图中 should be after 区域3606195356内的道路、街道或路径\",\n\t\"minor\": \"accuracy/mistranslation - 不属于 should be 不在道路294140400内\"\n}\n```"
+    },
+    {
+        "id": 125,
+        "src": "Show the borders of districts in the Northern Territory.",
+        "hyp": "显示北领地的区域边界。",
+        "cor": "显示北领地的区域边界。",
+        "need correction": 0,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"no-error\",\n\t\"minor\": \"no-error\"\n}\n```"
+    },
+    {
+        "id": 126,
+        "src": "ways with ids 69367224, 69367392, 69368245, 69369116, 69370410, 69370796, 69371269, 69373696, 69378631, 155133825, 155133827, 236359673",
+        "hyp": "id为69367224、69367392、69368245、69369116、69370410、69370796、69371269、69373696、69378631、155133825、155133827、236359673的道路",
+        "cor": "id为69367224、69367392、69368245、69369116、69370410、69370796、69371269、69373696、69378631、155133825、155133827、236359673的道路",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"accuracy/omission - ways are missing in translation\",\n\t\"major\": \"fluency/wrong order - id为 should be before the list of ids\",\n\t\"minor\": \"no-error\"\n}\n```"
+    },
+    {
+        "id": 127,
+        "src": "Schools in Poland",
+        "hyp": "波兰的学校",
+        "cor": "波兰的学校",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"fluency/wrong order - 波兰的 should be before 学校\",\n\t\"minor\": \"no-error\"\n}\n```"
+    },
+    {
+        "id": 128,
+        "src": "Level 6 administrative boundaries in Prakasam",
+        "hyp": "Prakasam的六级行政边界",
+        "cor": "六级行政区划边界在Prakasam",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"fluency/wrong order - Prakasam的 should be after Level 6\",\n\t\"minor\": \"accuracy/mistranslation - 行政边界 should be 行政区划边界\"\n}\n```"
+    },
+    {
+        "id": 129,
+        "src": "traffic signals in Liège, Belgium",
+        "hyp": "比利时列日的交通信号灯",
+        "cor": "比利时列日的交通信号",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"fluency/wrong order - 比利时列日 should be before 交通信号灯\",\n\t\"minor\": \"accuracy/mistranslation - 信号灯 should be 信号\"\n}\n```"
+    },
+    {
+        "id": 130,
+        "src": "Find a forest near the coordinate (39.4314,-78.0007,39.4850,-77.9142)",
+        "hyp": "在坐标(39.4314,-78.0007,39.4850,-77.9142)附近查找一片森林",
+        "cor": "在坐标(39.4314,-78.0007,39.4850,-77.9142)附近查找一个森林",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"fluency/wrong order - 在坐标(39.4314,-78.0007,39.4850,-77.9142)附近 should be before 查找一片森林\",\n\t\"minor\": \"accuracy/mistranslation - 一片 should be 一个\"\n}\n```"
+    },
+    {
+        "id": 131,
+        "src": "hospital in current view on the date 2014-01-01T00:00:00Z",
+        "hyp": "2014-01-01T00:00:00Z当前视图中的医院",
+        "cor": "当前视图中在2014-01-01T00:00:00Z的医疗机构",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"fluency/wrong order - 2014-01-01T00:00:00Z should be after 当前视图中的\",\n\t\"major\": \"accuracy/mistranslation - 医院 should be 医疗机构\",\n\t\"minor\": \"no-error\"\n}\n```"
+    },
+    {
+        "id": 132,
+        "src": "associated Street or highway with a name in Brussels",
+        "hyp": "布鲁塞尔有名称的街道或高速公路",
+        "cor": "布鲁塞尔有名称的关联街道或高速公路",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"fluency/wrong order - 布鲁塞尔 should be before 有名称的街道或高速公路\",\n\t\"minor\": \"accuracy/mistranslation - 关联 should be associated\"\n}\n```"
+    },
+    {
+        "id": 133,
+        "src": "cycleways or designated bicycle paths in Verona",
+        "hyp": "维罗纳的自行车道或指定自行车路径",
+        "cor": "维罗纳的自行车道或指定自行车路径",
+        "need correction": 0,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"no-error\",\n\t\"minor\": \"no-error\"\n}\n```"
+    },
+    {
+        "id": 134,
+        "src": "Node changed by user ID 9625470 on 2019-08-06 in Tunisia",
+        "hyp": "2019-08-06用户ID为9625470在突尼斯更改的节点",
+        "cor": "用户ID为9625470在2019-08-06在突尼斯更改的节点",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"accuracy/mistranslation - 节点 should be 节\",\n\t\"major\": \"fluency/wrong order - 2019-08-06 should be after 在突尼斯\",\n\t\"minor\": \"no-error\"\n}\n```"
+    },
+    {
+        "id": 135,
+        "src": "Bunkers in current view",
+        "hyp": "当前视图中的掩体",
+        "cor": "当前视图中的碉堡",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"terminology/inappropriate for context - 掩体 should be 防空洞\",\n\t\"major\": \"no-error\",\n\t\"minor\": \"no-error\"\n}\n```"
+    },
+    {
+        "id": 136,
+        "src": "highways that are no bus stops or platforms with a name but not a russian name and associated streets in the area of Дніпропетровськ",
+        "hyp": "在Дніпропетровськ地区，有名称但不是俄罗斯名称的、无公交站或站台且有关联街道的高速公路",
+        "cor": "有名称但不是俄罗斯名称的、无公交站或站台且在Дніпропетровськ地区有关联街道的公路",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"fluency/wrong order - 在Дніпропетровськ地区 should be after 高速公路\",\n\t\"minor\": \"accuracy/mistranslation - 高速公路 should be translated as 公路\"\n}\n```"
+    },
+    {
+        "id": 137,
+        "src": "Unnamed motorways and motorway links in Sachsen",
+        "hyp": "萨克森州未命名的高速公路和高速公路连接路",
+        "cor": "未命名的萨克森州高速公路和高速公路连接",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"fluency/wrong order - 萨克森州 should be after 未命名的\",\n\t\"minor\": \"accuracy/mistranslation - 高速公路连接路 should be 高速公路连接\"\n}\n```"
+    },
+    {
+        "id": 138,
+        "src": "Ziraat Bankası in Turkey",
+        "hyp": "土耳其的Ziraat Bankası",
+        "cor": "土耳其的Ziraat Bankası",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"fluency/wrong order - 土耳其的 should be before Ziraat Bankası\",\n\t\"minor\": \"accuracy/mistranslation - 土耳其的 should be 土耳其的Ziraat\"\n}\n```"
+    },
+    {
+        "id": 139,
+        "src": "tracks with access key but without any tags in Turkey",
+        "hyp": "在土耳其有访问密钥但没有任何标签的轨道",
+        "cor": "有访问密钥但在土耳其没有任何标签的轨迹",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"accuracy/mistranslation - 轨道 should be translated as 轨迹\",\n\t\"minor\": \"fluency/wrong order - 在土耳其 should be after 轨迹\"\n}\n```"
+    },
+    {
+        "id": 140,
+        "src": "highways with a speed limit of 30 km/h in Ingolstadt",
+        "hyp": "Ingolstadt限速30公里/小时的高速公路",
+        "cor": "Ingolstadt限速为30公里/小时的公路",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"fluency/wrong order - Ingolstadt should be before 限速30公里/小时的高速公路\",\n\t\"minor\": \"accuracy/mistranslation - 高速公路 should be 限速为30公里/小时的公路\"\n}\n```"
+    },
+    {
+        "id": 141,
+        "src": "doctors in Misiones",
+        "hyp": "Misiones的医生",
+        "cor": "Misiones的医疗中心",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"terminology/inappropriate for context - 医生 should be 医疗中心\",\n\t\"major\": \"fluency/wrong order - Misiones should be before 的\",\n\t\"minor\": \"no-error\"\n}\n```"
+    },
+    {
+        "id": 142,
+        "src": "junction of highways called Cabildo or Juramento in CABA",
+        "hyp": "CABA中被称为Cabildo或Juramento的高速公路交汇处",
+        "cor": "CABA中被称为Cabildo或Juramento的高速公路交界处",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"fluency/wrong order - CABA中 should be before 被称为\",\n\t\"minor\": \"accuracy/mistranslation - 交汇处 should be 交界处\"\n}\n```"
+    },
+    {
+        "id": 143,
+        "src": "trees in Краснокутськ",
+        "hyp": "Краснокутськ的树木",
+        "cor": "Краснокутськ的植被",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"fluency/wrong order - Краснокутськ should be before 的树木\",\n\t\"minor\": \"accuracy/mistranslation - 树木 should be 植被\"\n}\n```"
+    },
+    {
+        "id": 144,
+        "src": "drinking water in Liguria",
+        "hyp": "利古里亚的饮用水",
+        "cor": "利古里亚的饮用水",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"fluency/wrong order - 利古里亚 should be before 的饮用水\",\n\t\"minor\": \"accuracy/mistranslation - 水 should be 饮用水\"\n}\n```"
+    },
+    {
+        "id": 145,
+        "src": "Fuel stations in Trøndelag not operated by Circle K, Esso, St1, YX Energi or Best",
+        "hyp": "Trøndelag地区非Circle K、Esso、St1、YX Energi或Best运营的加油站",
+        "cor": "非Circle K、Esso、St1、YX Energi或Best运营的Trøndelag地区加油站",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"fluency/wrong order - Trøndelag地区 should be after 加油站\",\n\t\"minor\": \"no-error\"\n}\n```"
+    },
+    {
+        "id": 146,
+        "src": "Natural water routes in current map view in current view",
+        "hyp": "当前地图视图中的自然水路",
+        "cor": "当前视图中的自然水路",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"fluency/wrong order - 当前地图视图中 should be after 自然水路\",\n\t\"minor\": \"no-error\"\n}\n```"
+    },
+    {
+        "id": 147,
+        "src": "castles and objects with a castle type in the area with ISO3166-1 code RS",
+        "hyp": "具有ISO3166-1代码RS地区中的城堡类型的城堡和物体",
+        "cor": "在具有ISO3166-1代码RS的地区中，城堡风格的城堡和物体",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"accuracy/mistranslation - 城堡类型 should be translated as 城堡风格\",\n\t\"major\": \"fluency/wrong order - 具有ISO3166-1代码RS should be at the end\",\n\t\"minor\": \"no-error\"\n}\n```"
+    },
+    {
+        "id": 148,
+        "src": "Water wells in Israel",
+        "hyp": "以色列的水井",
+        "cor": "以色列的水井建筑",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"fluency/wrong order - 以色列 should be before 的\",\n\t\"minor\": \"accuracy/mistranslation - 水井 should be 水井建筑\"\n}\n```"
+    },
+    {
+        "id": 149,
+        "src": "Find a farmland with corn in Brazil",
+        "hyp": "在巴西寻找种有玉米的农田",
+        "cor": "在巴西寻找种植有玉米的农田",
+        "need correction": 1,
+        "mqm_info": "```json\n{\n\t\"critical\": \"no-error\",\n\t\"major\": \"accuracy/mistranslation - 种有 should be 种植有\",\n\t\"minor\": \"no-error\"\n}\n```"
+    }
+]
