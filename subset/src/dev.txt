@@ -1,0 +1,50 @@
+castle in Deutschland
+Tram railways in Magnitogorsk which are not located in a railway yard and without spur, siding or crossover tracks
+Glass and clothes recycling places in Gironde
+Nodes and ways that were edited between 2019-02-11T00:00:00Z and 2019-02-11T23:55:59Z by the user with the ID 7725447
+Schools with Gemeindeschlüssel 05166032
+Note with no highway, no landuse, no leisure, no natural, no boundary, no route in Arrondissement Dendermonde in Belgium
+Railway stations in Sverige
+surface, amount and lenght of roads that are not for bicycles, pedestrians or service and not under construction in Czerniewicz,Jaraguá do Sul
+Way with the attribute service having a value emergency_access in Quebec
+Office buildings in current view
+Pipeline markers in current view
+roads in civil parishes in South Somerset
+Gas stations with bio fuel in Україна
+Admin level 9 in Budapest
+library in Hamburg
+Changes made by the user with the ID 9388982 on 2019-08-02 between 00:00:00 and 23:55:59
+Admin level 5 in Maroc
+nodes on the London Underground network that were not created by JOSM or Yahoo
+Admin level 6 in algeria
+Places in the Netherlands with a name like "Bel Company"
+ways with the ids 613126639,613126640,613126642,613126643,613126644,613126645,613126647,613126648,613126649,613126650,613126652,613126654,613126655,613126656,613126657,613126658,613126659,613126660,613126661,613126662
+a node that is newer than 2018-01-25 in Seignanx canton in France
+Ways and nodes with the uid 8610571 changed between 2018-09-05T00:00:00Z and 2018-09-05T23:50:59Z
+microbreweries and breweries as well as Brewpub breweries in the current view
+Way with the attribute usage having a value main in Colorado
+buildings in Split in current view
+All Hemes post offices in current view
+residential, tertiary or unclassified highways in the selected window
+fuel in Friuli Venezia Giulia
+Minor power lines in current view
+second hand shops in Provence-Alpes-Côte d'Azur in France
+Bicycle parking in current view
+Administrative boundaries of subdistricts in Chhattisgarh
+Changes made by the user with the ID 7863709 on 2018-08-01 between 00:00:00 and 23:30:59
+a library with a name in Norway
+Places with a house number in Karnataka
+major roads 20 meters around coordinates 49.798213, 5.522851
+Farms in Brazil whose name starts with "Sitio "
+subway entrance in Kharkiv
+surface, amount and lenght of roads that are not for bicycles, pedestrians or service and not under construction in Estrada Nova,Jaraguá do Sul
+the ways with the ids 109026389, 109026393, 11786859, 11786872, 11787438, 11787748, 11787791, 11787792 and 11787795 in Cuyahoga County, Ohio
+Towns, cities and villages in South West Michigan
+Find Zamenhof and Esperanto in current view
+bowling alley, bandstands, clubs, dance halls, social clubs, hackerspaces, bars, pubs, biergartens, cafes, nightclubs or event venues in the selected window
+bicycle rental in Saint-Étienne, France
+an administrative boundary in Switzerland with admin level 8 and it does not have BFS Nummer as swisstopo
+designated bicycle path in the current view also for walking by foot
+parking spots next to the road in the selected window
+Ways and nodes with the uid 9847941 changed between 2019-06-25T00:00:00Z and 2019-06-25T23:57:59Z
+sand in current view

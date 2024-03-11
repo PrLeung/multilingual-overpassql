@@ -1,0 +1,50 @@
+Places whose "opening_hours" have a value beginning with "opening_hours"
+degrowth identity in the selected window
+piers or parking spots in the selected window
+all intersections of highways with operating railways
+hospitals, police stations, supermarkets and aeroway gates in current view
+Hospitals specializing in intensive care in Germany
+destination sign in  Australia
+Ways and nodes with the uid 7725415 changed between 2018-09-10T00:00:00Z and 2018-09-11T23:59:59Z
+Traffic calming installaions in Brazil
+museum in stuttgart
+Railway stations named Planegg
+winery in current view
+nodes and ways with wikidata id Q55935433 brand in Belgium
+phone numbers of all objects in Махачкала and Советский район
+Abandoned railways in current view
+All cities in Тернопільська область with a name or a Wikipedia entry
+historic castles and restaurants 30 meters around those in Switzerland
+School in town in Germany whose Gemeindeschlüssel is 05166032
+Districts and subdistricts in Kurnool
+Places in PE Brasil that start their name with Prefeitura
+water not from a canal but possibly a lake in the current view
+Way with the attribute service having a value yard in South Dakota
+Admin level 5 in Rajasthan
+One way roads, streets and paths in Thuringia in direction of the OSM way tagged as "motorway_link"
+Roads, streets or paths in area 3606195356 that are not in way 294140400 and aren't pistes or roundabouts and contain reference tags starting with a single digit followed by anything except either another digit or the sequence "; M" in current view
+Show the borders of districts in the Northern Territory.
+ways with ids 69367224, 69367392, 69368245, 69369116, 69370410, 69370796, 69371269, 69373696, 69378631, 155133825, 155133827, 236359673
+Schools in Poland
+Level 6 administrative boundaries in Prakasam
+traffic signals in Liège, Belgium
+Find a forest near the coordinate (39.4314,-78.0007,39.4850,-77.9142)
+hospital in current view on the date 2014-01-01T00:00:00Z
+associated Street or highway with a name in Brussels
+cycleways or designated bicycle paths in Verona
+Node changed by user ID 9625470 on 2019-08-06 in Tunisia
+Bunkers in current view
+highways that are no bus stops or platforms with a name but not a russian name and associated streets in the area of Дніпропетровськ
+Unnamed motorways and motorway links in Sachsen
+Ziraat Bankası in Turkey
+tracks with access key but without any tags in Turkey
+highways with a speed limit of 30 km/h in Ingolstadt
+doctors in Misiones
+junction of highways called Cabildo or Juramento in CABA
+trees in Краснокутськ
+drinking water in Liguria
+Fuel stations in Trøndelag not operated by Circle K, Esso, St1, YX Energi or Best
+Natural water routes in current map view in current view
+castles and objects with a castle type in the area with ISO3166-1 code RS
+Water wells in Israel
+Find a farmland with corn in Brazil
