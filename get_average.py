@@ -1,13 +1,13 @@
 import os
 # 假设TXT文件名为numbers.txt
 dataset=["zero-shot"]
-type=["STAR","SCORE"]
+type=["SCORE"]
 
 for data in dataset:
     for type_name in type:
         # 读取TXT文件并计算均值
         try:
-            dir_name = f"E:\\multilingual-overpassql\\GEMBA_result\\{data}\\subset"
+            dir_name = f"E:\\multilingual-overpassql\\GEMBA_result\\{data}\\all"
             file_name=os.path.join(dir_name, type_name+".txt")
             with open(file_name, 'r', encoding='utf-8') as file:
                 numbers = [float(line.strip()) for line in file if line.strip().isdigit()]

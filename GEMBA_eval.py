@@ -5,7 +5,7 @@ import argparse
 import time
 
 # Define your OpenAI API key
-api_key = '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'
+api_key = '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'
 re_template=['1|一|one','2|二|two','3|三|three','4|四|four','5|五|five']
 
 
