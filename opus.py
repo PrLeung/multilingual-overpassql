@@ -1,7 +1,7 @@
 from transformers import pipeline
 from tqdm import tqdm
 
-pipe = pipeline("translation", model="Helsinki-NLP/opus-mt-en-zh", device="cuda:0")
+pipe = pipeline("translation", model="KennStack01/Helsinki-NLP-opus-mt-en-zh",device="cuda:0")
 
 if __name__=="__main__":
     input_file="src/src.txt"
@@ -12,7 +12,7 @@ if __name__=="__main__":
     # Translate each English sentence to Chinese and write to the specified translated dataset file
     with open(output_file, 'a+', encoding='utf-8') as file:
         for i, sentence in enumerate(tqdm(english_sentences)):
-            if i+1<=330:
+            if i+1<=4638:
                 continue
             # print(i + 1)
             # Translate the sentence
