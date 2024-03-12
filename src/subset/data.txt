@@ -1,0 +1,150 @@
+florist Forlì-Cesena
+Places in Zarautz with information about amenity, craft, history, leisure, public transport, shops, sports or tourism
+Ways and nodes with the uid 10074543 newer than yesterday
+highway trunk with motorway linkings in Seattle, Washington State
+Show me toilets that are accessible. in current view
+Swimming Pools that have leisure attribute, a name and a building in France
+highways 1000 meters around coordinates 56.8166426,60.6299284 that were not edited last by user MassGIS Import and all nodes 1000 meters around those coordinates
+Areas with visible bedrock in current view
+Way with the attribute lanes:backward having a value 0 in "Catalonia"
+Places in the current view whose name starts with "Noise level"
+All objects in Slovakia with Wikidata tags and without Wikipedia tags
+nightclub in current view
+hiking route with a three-digit reference number starting with a 7 including a survey from 2017 in Friuli Venezia Giulia
+restaurant in current view
+Curves or dangerous turns in Brasil
+All places in the current view last changed by the user "HK2002" between 2020-07-23 and 2020-07-24
+Nodes of addresses wih house numbers and on street "Skamlingvejen" with postcode "6000" in Denmark last edited by user "findvej" in current view
+restaurant in current view
+Roads for motor vehicles in Caen in current view
+Impasses named Bequerel or Henri Becquerel in Saint-Junien
+beach resort in current view
+School buildings that don't have an amenity tag in Udine
+camp sites in Seignanx
+Motocross circuits in current view
+Pyrotechnics shops in current view
+service highways called Transoeste, Transolímpica or Transcarioca in Rio de Janeiro
+places marked as city that have a wikidata entry and a name but no italian name in the selected window
+Cities in Italy
+All roads, streets and paths without speed limits in Pempelfort, Düsseldorf tagged as primary, secondary, tertiary, unclassified or residential
+peak in wielkopolskie
+traffic signs in Namur, Belgium
+Way with the attribute nat_ref having a value 77N900303_5 in ile de france
+Libraries in the Communauté d'agglomération Pau Béarn Pyrénées
+shower in current view
+universities or colleges
+Roads, streets and paths tagged as "living_street" usable by the general public in Paris
+Highways or routes with official name Rodovia Reinaldo Adelino Baum in RS, Brasil
+Road lanes in Poland running in the same or opposite direction of the OSM-way
+health facilities with a given type in the selected window
+Administrative boundaries of Cainta, Philippines
+Changes made by the user with the ID 8559160 on 2018-09-21 between 00:00:00 and 23:55:59
+doctors in Tirol
+Way with the attribute railway having a value abandoned in California
+aircraft in current view
+Level 6 administrative areas in Haryana
+lake in current view
+pub in current view
+All objects made by Vensys Energy AG
+trainroutes, railway stations or stop positions in the selected window
+Admin level 4 in Angola
+castle in Deutschland
+Tram railways in Magnitogorsk which are not located in a railway yard and without spur, siding or crossover tracks
+Glass and clothes recycling places in Gironde
+Nodes and ways that were edited between 2019-02-11T00:00:00Z and 2019-02-11T23:55:59Z by the user with the ID 7725447
+Schools with Gemeindeschlüssel 05166032
+Note with no highway, no landuse, no leisure, no natural, no boundary, no route in Arrondissement Dendermonde in Belgium
+Railway stations in Sverige
+surface, amount and lenght of roads that are not for bicycles, pedestrians or service and not under construction in Czerniewicz,Jaraguá do Sul
+Way with the attribute service having a value emergency_access in Quebec
+Office buildings in current view
+Pipeline markers in current view
+roads in civil parishes in South Somerset
+Gas stations with bio fuel in Україна
+Admin level 9 in Budapest
+library in Hamburg
+Changes made by the user with the ID 9388982 on 2019-08-02 between 00:00:00 and 23:55:59
+Admin level 5 in Maroc
+nodes on the London Underground network that were not created by JOSM or Yahoo
+Admin level 6 in algeria
+Places in the Netherlands with a name like "Bel Company"
+ways with the ids 613126639,613126640,613126642,613126643,613126644,613126645,613126647,613126648,613126649,613126650,613126652,613126654,613126655,613126656,613126657,613126658,613126659,613126660,613126661,613126662
+a node that is newer than 2018-01-25 in Seignanx canton in France
+Ways and nodes with the uid 8610571 changed between 2018-09-05T00:00:00Z and 2018-09-05T23:50:59Z
+microbreweries and breweries as well as Brewpub breweries in the current view
+Way with the attribute usage having a value main in Colorado
+buildings in Split in current view
+All Hemes post offices in current view
+residential, tertiary or unclassified highways in the selected window
+fuel in Friuli Venezia Giulia
+Minor power lines in current view
+second hand shops in Provence-Alpes-Côte d'Azur in France
+Bicycle parking in current view
+Administrative boundaries of subdistricts in Chhattisgarh
+Changes made by the user with the ID 7863709 on 2018-08-01 between 00:00:00 and 23:30:59
+a library with a name in Norway
+Places with a house number in Karnataka
+major roads 20 meters around coordinates 49.798213, 5.522851
+Farms in Brazil whose name starts with "Sitio "
+subway entrance in Kharkiv
+surface, amount and lenght of roads that are not for bicycles, pedestrians or service and not under construction in Estrada Nova,Jaraguá do Sul
+the ways with the ids 109026389, 109026393, 11786859, 11786872, 11787438, 11787748, 11787791, 11787792 and 11787795 in Cuyahoga County, Ohio
+Towns, cities and villages in South West Michigan
+Find Zamenhof and Esperanto in current view
+bowling alley, bandstands, clubs, dance halls, social clubs, hackerspaces, bars, pubs, biergartens, cafes, nightclubs or event venues in the selected window
+bicycle rental in Saint-Étienne, France
+an administrative boundary in Switzerland with admin level 8 and it does not have BFS Nummer as swisstopo
+designated bicycle path in the current view also for walking by foot
+parking spots next to the road in the selected window
+Ways and nodes with the uid 9847941 changed between 2019-06-25T00:00:00Z and 2019-06-25T23:57:59Z
+sand in current view
+Places whose "opening_hours" have a value beginning with "opening_hours"
+degrowth identity in the selected window
+piers or parking spots in the selected window
+all intersections of highways with operating railways
+hospitals, police stations, supermarkets and aeroway gates in current view
+Hospitals specializing in intensive care in Germany
+destination sign in  Australia
+Ways and nodes with the uid 7725415 changed between 2018-09-10T00:00:00Z and 2018-09-11T23:59:59Z
+Traffic calming installaions in Brazil
+museum in stuttgart
+Railway stations named Planegg
+winery in current view
+nodes and ways with wikidata id Q55935433 brand in Belgium
+phone numbers of all objects in Махачкала and Советский район
+Abandoned railways in current view
+All cities in Тернопільська область with a name or a Wikipedia entry
+historic castles and restaurants 30 meters around those in Switzerland
+School in town in Germany whose Gemeindeschlüssel is 05166032
+Districts and subdistricts in Kurnool
+Places in PE Brasil that start their name with Prefeitura
+water not from a canal but possibly a lake in the current view
+Way with the attribute service having a value yard in South Dakota
+Admin level 5 in Rajasthan
+One way roads, streets and paths in Thuringia in direction of the OSM way tagged as "motorway_link"
+Roads, streets or paths in area 3606195356 that are not in way 294140400 and aren't pistes or roundabouts and contain reference tags starting with a single digit followed by anything except either another digit or the sequence "; M" in current view
+Show the borders of districts in the Northern Territory.
+ways with ids 69367224, 69367392, 69368245, 69369116, 69370410, 69370796, 69371269, 69373696, 69378631, 155133825, 155133827, 236359673
+Schools in Poland
+Level 6 administrative boundaries in Prakasam
+traffic signals in Liège, Belgium
+Find a forest near the coordinate (39.4314,-78.0007,39.4850,-77.9142)
+hospital in current view on the date 2014-01-01T00:00:00Z
+associated Street or highway with a name in Brussels
+cycleways or designated bicycle paths in Verona
+Node changed by user ID 9625470 on 2019-08-06 in Tunisia
+Bunkers in current view
+highways that are no bus stops or platforms with a name but not a russian name and associated streets in the area of Дніпропетровськ
+Unnamed motorways and motorway links in Sachsen
+Ziraat Bankası in Turkey
+tracks with access key but without any tags in Turkey
+highways with a speed limit of 30 km/h in Ingolstadt
+doctors in Misiones
+junction of highways called Cabildo or Juramento in CABA
+trees in Краснокутськ
+drinking water in Liguria
+Fuel stations in Trøndelag not operated by Circle K, Esso, St1, YX Energi or Best
+Natural water routes in current map view in current view
+castles and objects with a castle type in the area with ISO3166-1 code RS
+Water wells in Israel
+Find a farmland with corn in Brazil

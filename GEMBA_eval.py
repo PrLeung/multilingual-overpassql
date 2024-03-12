@@ -5,7 +5,7 @@ import argparse
 import time
 
 # Define your OpenAI API key
-api_key = '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'
+api_key = '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'
 re_template=['1|一|one','2|二|two','3|三|three','4|四|four','5|五|five']
 
 
@@ -77,13 +77,9 @@ def main(args):
     # Path to the sample folder
 
     # Paths to the train files
-    train_file = os.path.join("origin", args.dataset+".txt")
-    translated_file = os.path.join("en-zh", args.dataset+".txt")
-    output_file="result/{0}_{1}.txt".format(args.dataset, args.type)
-    
-    # train_file="source-input.txt"
-    # translated_file="translation-output.txt"
-    # output_file="test.txt"
+    train_file = args.src
+    translated_file = args.hyp
+    output_file=os.path.join(args.output, args.type+".txt")
     
     # Read train and translated files
     with open(train_file, "r", encoding="utf-8") as train_f, \
@@ -106,7 +102,9 @@ def main(args):
 
 if __name__=="__main__":
     parser = argparse.ArgumentParser(description="Translate English sentences to Chinese using OpenAI's GPT-4 API.")
-    parser.add_argument("-dataset", type=str, help="Path to the dataset file containing English sentences to translate.", required=True)
+    parser.add_argument("-src", type=str, help="Path to the dataset file containing English sentences to translate.", required=True)
+    parser.add_argument("-hyp", type=str, help="Path to the dataset file containing English sentences to translate.", required=True)
+    parser.add_argument("-output", type=str, help="Path to the dataset file containing English sentences to translate.", required=True)
     parser.add_argument("-language", type=str, help="Language of the sentences in the dataset.", required=True)
     parser.add_argument("-last_end", type=int, help="Last end", required=True)
     parser.add_argument("-type", type=str, help="type", required=True)
