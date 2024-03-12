@@ -1,16 +1,20 @@
 import os
 from openai import OpenAI
+# from g4f.client import Client
 import re
 import argparse
 import time
 
 # Define your OpenAI API key
 api_key = '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'
+# api_key='sk-E7hBdOZ9CNQLHnRRQhd8jt3nuTtlX8SKUJmJpOrR1BOYI2Cv'
+# api_key='sk-eL0ysAZCHzQGTL6tXM0l7hOW7P4wycKMRrrVi8CG51pu8uUt'
 re_template=['1|一|one','2|二|two','3|三|three','4|四|four','5|五|five']
 
 
 # Set up OpenAI API
 client = OpenAI(api_key=api_key)
+# client = Client()
 
 def get_prompt(type,source_lang, target_lang, source_seg, target_seg):
     if type=="CLASS":
@@ -64,6 +68,7 @@ def call_GPT(type, prompt):
     try:
         return process(type, response.choices[0].message.content.strip())
     except:
+        print(response)
         return "error"
 
 
@@ -96,6 +101,8 @@ def main(args):
             
             # Call GPTScore function for each pair of texts
             eval_class = GEMBA(args.type,"English",args.language,train_text, translated_text)
+            if eval_class=="error":
+                break
             output_f.write(str(eval_class)+"\n")
             output_f.flush()
             time.sleep(0.5)

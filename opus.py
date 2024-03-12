@@ -12,8 +12,6 @@ if __name__=="__main__":
     # Translate each English sentence to Chinese and write to the specified translated dataset file
     with open(output_file, 'a+', encoding='utf-8') as file:
         for i, sentence in enumerate(tqdm(english_sentences)):
-            if i+1<=330:
-                continue
             # print(i + 1)
             # Translate the sentence
             chinese_translation = pipe(sentence)

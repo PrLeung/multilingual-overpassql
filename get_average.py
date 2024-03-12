@@ -1,7 +1,7 @@
 import os
 # 假设TXT文件名为numbers.txt
 dataset=["zero-shot"]
-type=["SCORE"]
+type=["STAR"]
 
 for data in dataset:
     for type_name in type:
